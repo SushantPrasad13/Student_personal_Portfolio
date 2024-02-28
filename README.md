@@ -10,6 +10,7 @@
 Sushant Prasad, Chandani Yadav and Khushi Saroj deployed the project in azure by using it's service that is app service, applications insights and language studio in that we created a chat bot.
 
 
+
 **Project Description :**
 
 A personal portfolio is a curated collection of your work, accomplishments, skills, and experiences that showcases your expertise and talents to potential employers, clients, or collaborators. It serves as a comprehensive representation of your professional identity and capabilities. Here's a breakdown of what a personal portfolio typically includes, Introduction, resume or CV, Portfolio Projects, Skills and Expertise, Testimonials or Recommendations, Contact Information, etc. When creating your personal portfolio, focus on presenting your work in a visually appealing and professional manner. Finally, don't forget to proofread carefully to ensure accuracy and professionalism.
