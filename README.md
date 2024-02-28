@@ -1,8 +1,8 @@
-#Future Ready Talent Projects
+**Future Ready Talent Projects**
 
 **Project Title:**
 
-CSK Fitness Training Gym Website
+ Student Personal Portfolio Website
 
 **Project Description :**
 
