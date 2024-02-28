@@ -49,18 +49,24 @@ A personal portfolio is a curated collection of your work, accomplishments, skil
 
 **ScreenShots of the project :**
 
+Go to app service-> create a web app-> create resource group-> enter name-> select runtime stack
 ![Screenshot 2024-02-26 131015](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/4e228235-bebd-4b85-b9d6-dad757ce7cc6)
 
+select windows plan -> pricing plan -> review + create
 ![Screenshot 2024-02-26 131144](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/6ebf0644-b38b-43a4-a6fd-48243ea6e36f)
 
 ![Screenshot 2024-02-26 131516](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/5afb50c7-82a1-49b1-b893-b32b0d816248)
 
+click on deployment center-> select source(external git)-> (copy the repository from the github and paste it) in Repository-> Branch(main)-> click on save
 ![Screenshot 2024-02-26 131642](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/0bc0f5d0-8d64-45b0-9871-5ca8bb45366c)
 
+This is our second service that is application insights
 ![Screenshot 2024-02-26 132204](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/f0ff5118-ac94-4640-96b8-3f9c02d143db)
 
+To connect application insights to the app services go to the app service-> API management-> click on create new
 ![Screenshot 2024-02-26 132335](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/88bef1b0-3de7-4d9e-ae3b-144e850b6ae2)
 
+Enter the organization name and administrator email
 ![Screenshot 2024-02-26 132558](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/46196fe0-09ad-4c25-967c-274e8638d4a6)
 
 ![Screenshot 2024-02-26 133318](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/9a8d4356-60e7-43e3-bc52-e9d649254215)
