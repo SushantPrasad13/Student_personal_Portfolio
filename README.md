@@ -42,3 +42,11 @@ Lifestyle
 1. Now create the Azure app insights in the same resource group.
 
 **Working Links of Project:**
+
+- **Working Project url:
+  
+- **Project Video url:
+
+- **Project Documentation url:
+
+**ScreenShots of the project :**
