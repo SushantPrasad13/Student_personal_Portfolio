@@ -73,16 +73,48 @@ A personal portfolio is a curated collection of your work, accomplishments, skil
 
 ![Screenshot 2024-02-26 153458](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/2162c886-5044-4a22-b3e5-299052916fab)
 
+![Screenshot 2024-02-28 142424](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/fb0a8f5b-a4c3-498b-b63f-f7811eeca969)
+
+![Screenshot 2024-02-28 142905](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/032bf2b6-cf72-4f2d-84f7-2d20ff5a2110)
+
+![Screenshot 2024-02-28 142954](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/e369c229-5b65-4bc8-9ca9-93ee512e2899)
+
+![Screenshot 2024-02-28 143029](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/516562a3-b5cd-4ed9-b7b0-f7e34e911190)
+
+![Screenshot 2024-02-28 143441](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/39c29902-5275-44e9-908b-3b54228fac0d)
+
+![Screenshot 2024-02-28 143658](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/9ed5c9d0-c053-4699-9de8-ee66e41d19b1)
+
+![Screenshot 2024-02-28 144434](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/3154e535-0490-47dc-9216-6a50b212d9c6)
+
+![Screenshot 2024-02-28 144540](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/af843423-3229-4db4-96b1-146b006eb629)
+
+![Screenshot 2024-02-28 144656](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/a9d8efa3-e6a1-4055-815b-8529c3701500)
+
+![Screenshot 2024-02-28 144800](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/adc61f21-eef6-4f70-8131-4571e8aa158d)
+
+![Screenshot 2024-02-28 145107](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/94acd97b-fb1c-455c-814c-f4fd45a45a14)
+
+![Screenshot 2024-02-28 150153](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/a039d8d3-41bc-4111-98ee-2188a8e921c8)
+
+![Screenshot 2024-02-28 151313](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/1c08716b-71f4-4d85-9387-26f90e8a6c77)
+
+![Screenshot 2024-02-28 151422](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/75b655f0-22dd-4a35-8212-aea945b5e23c)
 
 
+**ScreenShots of the website after deploying**
 
+![Screenshot 2024-02-28 160829](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/43a244d2-6c5c-4413-98e5-8f7225904dcb)
 
+![Screenshot 2024-02-28 160925](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/4f6dea42-6857-4adb-b3b7-6c0d11510ac6)
 
+![Screenshot 2024-02-28 161009](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/7a5e77ac-e3b8-44f7-a8b9-a8d58ee1297d)
 
+![Screenshot 2024-02-28 161041](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/810eaa0d-afce-4f4d-8f13-7389c62d6905)
 
+![Screenshot 2024-02-28 161052](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/71a9a5c4-17f5-46e2-b5f6-7de3f0594687)
 
-
-
+![Screenshot 2024-02-28 161319](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/0e97187e-22de-4ced-afcb-8cb56450e6ce)
 
 
 
