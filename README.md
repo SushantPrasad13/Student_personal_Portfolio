@@ -87,28 +87,37 @@ Our third service is AI service, Go to AI service-> Language service-> Click on 
 Select resource group and enter the name
 ![Screenshot 2024-02-28 142905](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/032bf2b6-cf72-4f2d-84f7-2d20ff5a2110)
 
-![Screenshot 2024-02-28 142954](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/e369c229-5b65-4bc8-9ca9-93ee512e2899)
-
+Tick the last option and click on review + create.
 ![Screenshot 2024-02-28 143029](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/516562a3-b5cd-4ed9-b7b0-f7e34e911190)
 
+click on get started with language studio
 ![Screenshot 2024-02-28 143441](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/39c29902-5275-44e9-908b-3b54228fac0d)
 
+Fill all the details properly, select the resource group and click on done
 ![Screenshot 2024-02-28 143658](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/9ed5c9d0-c053-4699-9de8-ee66e41d19b1)
 
+click on add source--> select file
 ![Screenshot 2024-02-28 144434](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/3154e535-0490-47dc-9216-6a50b212d9c6)
 
+upload your question and answer file and click on add all
 ![Screenshot 2024-02-28 144540](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/af843423-3229-4db4-96b1-146b006eb629)
 
+now click on deploy
 ![Screenshot 2024-02-28 144656](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/a9d8efa3-e6a1-4055-815b-8529c3701500)
 
+click on create bot
 ![Screenshot 2024-02-28 144800](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/adc61f21-eef6-4f70-8131-4571e8aa158d)
 
+Select resource group-> bot handle
 ![Screenshot 2024-02-28 145107](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/94acd97b-fb1c-455c-814c-f4fd45a45a14)
 
+Fill all the details properly and click on review + create.
 ![Screenshot 2024-02-28 150153](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/a039d8d3-41bc-4111-98ee-2188a8e921c8)
 
+to add chatbot in your html page select we chat
 ![Screenshot 2024-02-28 151313](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/1c08716b-71f4-4d85-9387-26f90e8a6c77)
 
+copy the secret key and embedded code then paste it into your code
 ![Screenshot 2024-02-28 151422](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/75b655f0-22dd-4a35-8212-aea945b5e23c)
 
 
