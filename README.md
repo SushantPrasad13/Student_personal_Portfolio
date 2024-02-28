@@ -41,10 +41,10 @@ A personal portfolio is a curated collection of your work, accomplishments, skil
 
 **Working Links of Project:**
 
-- **Working Project url:
+- **Working Project url**:
   
-- **Project Video url:
+- **Project Video url**:
 
-- **Project Documentation url:
+- **Project Documentation url**:
 
 **ScreenShots of the project :**
