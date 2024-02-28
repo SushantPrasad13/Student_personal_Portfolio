@@ -48,3 +48,48 @@ A personal portfolio is a curated collection of your work, accomplishments, skil
 - **Project Documentation url**:
 
 **ScreenShots of the project :**
+
+![Screenshot 2024-02-26 131015](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/4e228235-bebd-4b85-b9d6-dad757ce7cc6)
+
+![Screenshot 2024-02-26 131144](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/6ebf0644-b38b-43a4-a6fd-48243ea6e36f)
+
+![Screenshot 2024-02-26 131516](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/5afb50c7-82a1-49b1-b893-b32b0d816248)
+
+![Screenshot 2024-02-26 131642](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/0bc0f5d0-8d64-45b0-9871-5ca8bb45366c)
+
+![Screenshot 2024-02-26 132204](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/f0ff5118-ac94-4640-96b8-3f9c02d143db)
+
+![Screenshot 2024-02-26 132335](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/88bef1b0-3de7-4d9e-ae3b-144e850b6ae2)
+
+![Screenshot 2024-02-26 132558](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/46196fe0-09ad-4c25-967c-274e8638d4a6)
+
+![Screenshot 2024-02-26 133318](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/9a8d4356-60e7-43e3-bc52-e9d649254215)
+
+![Screenshot 2024-02-26 153030](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/c1c58559-ad42-48ba-9327-d5147627181c)
+
+![Screenshot 2024-02-26 153305](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/d2a7cbcc-aa08-4334-b735-2f8599ba9dbd)
+
+![Screenshot 2024-02-26 153343](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/9dd0d83e-ded4-4207-927b-a0761b419261)
+
+![Screenshot 2024-02-26 153458](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/2162c886-5044-4a22-b3e5-299052916fab)
+
+![Screenshot 2024-02-26 154456](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/80d4873f-5633-4d6d-8728-8d1d6bc5c7fd)
+
+![Screenshot 2024-02-26 154513](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/1a738d33-886e-4fc7-86a9-9dca98a4ec03)
+
+![Screenshot 2024-02-26 155028](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/3044ee1c-062f-479c-a80b-434edc28e113)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
