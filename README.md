@@ -5,8 +5,9 @@
  Student Personal Portfolio Website
 
 **Project Members** :- Sushant Prasad, Chandani Yadav and Khushi Saroj
+
 **Contrubtions of members**:- -Sushant Prasad Created the web app by using the following language, HTML, CSS and JS.
-                          -Chandani Yadav and Khushi Saroj deployed the project in azure by using it's service that is app service, applications insights and language studio in that we created a chat bot.
+                               **.**Chandani Yadav and Khushi Saroj deployed the project in azure by using it's service that is app service, applications insights and language studio in that we created a chat bot.
 
 **Project Description :**
 
