@@ -114,7 +114,7 @@ Select resource group-> bot handle
 Fill all the details properly and click on review + create.
 ![Screenshot 2024-02-28 150153](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/a039d8d3-41bc-4111-98ee-2188a8e921c8)
 
-to add chatbot in your html page select we chat
+to add chatbot in your html page select web chat
 ![Screenshot 2024-02-28 151313](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/1c08716b-71f4-4d85-9387-26f90e8a6c77)
 
 copy the secret key and embedded code then paste it into your code
