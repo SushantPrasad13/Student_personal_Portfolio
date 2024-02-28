@@ -69,18 +69,22 @@ To connect application insights to the app services go to the app service-> API 
 Enter the organization name and administrator email
 ![Screenshot 2024-02-26 132558](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/46196fe0-09ad-4c25-967c-274e8638d4a6)
 
-![Screenshot 2024-02-26 133318](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/9a8d4356-60e7-43e3-bc52-e9d649254215)
-
+Go to monitoring select the application insights and click in review + create
 ![Screenshot 2024-02-26 153030](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/c1c58559-ad42-48ba-9327-d5147627181c)
 
+Now click on Link API
 ![Screenshot 2024-02-26 153305](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/d2a7cbcc-aa08-4334-b735-2f8599ba9dbd)
 
+Select the App service
 ![Screenshot 2024-02-26 153343](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/9dd0d83e-ded4-4207-927b-a0761b419261)
 
+Select the app service and click on create
 ![Screenshot 2024-02-26 153458](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/2162c886-5044-4a22-b3e5-299052916fab)
 
+Our third service is AI service, Go to AI service-> Language service-> Click on create--> select custom question answering
 ![Screenshot 2024-02-28 142424](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/fb0a8f5b-a4c3-498b-b63f-f7811eeca969)
 
+Select resource group and enter the name
 ![Screenshot 2024-02-28 142905](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/032bf2b6-cf72-4f2d-84f7-2d20ff5a2110)
 
 ![Screenshot 2024-02-28 142954](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/e369c229-5b65-4bc8-9ca9-93ee512e2899)
