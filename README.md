@@ -73,11 +73,6 @@ A personal portfolio is a curated collection of your work, accomplishments, skil
 
 ![Screenshot 2024-02-26 153458](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/2162c886-5044-4a22-b3e5-299052916fab)
 
-![Screenshot 2024-02-26 154456](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/80d4873f-5633-4d6d-8728-8d1d6bc5c7fd)
-
-![Screenshot 2024-02-26 154513](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/1a738d33-886e-4fc7-86a9-9dca98a4ec03)
-
-![Screenshot 2024-02-26 155028](https://github.com/SushantPrasad13/Student_personal_Portfolio/assets/144934599/3044ee1c-062f-479c-a80b-434edc28e113)
 
 
 
