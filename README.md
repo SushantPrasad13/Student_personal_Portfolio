@@ -50,7 +50,7 @@ A personal portfolio is a curated collection of your work, accomplishments, skil
 
 - **Working Project url**: http://studentpersonalportfolio.azurewebsites.net
   
-- **Project Video url**:
+- **Project Video url**: https://drive.google.com/file/d/1M14dO58rrMv57H72Daua0vfzGkb9WNyL/view?usp=sharing
 
 - **Project Documentation url**: https://drive.google.com/file/d/1CSRuAhpX8czku6abyAaBWOL2K6iX5Cr1/view?usp=sharing
 
